@@ -15,7 +15,7 @@ Note:
 2. Modified code
  1) Load NIFT(batch process): MedicalNet_datasets_COVID19_dataset.py
  2) Train&test for classification (softmaxlayer is included for normalization)
- 3) Modified settings before you run MedicalNet_NEW.py for results
+ 3) Modifie settings before you run MedicalNet_NEW.py for results
  4) Ground truth, predicted label and score are generated and saved as m_all.mat, pre_all.mat, and po_all.mat.
  5) Visualization part is not included in this code 
  6) Kindly wait for my update. This code is only for your reference.
